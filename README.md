@@ -4,14 +4,6 @@ A small, practical project for exploring customer purchasing behavior from elect
 
 ---
 
-## Badges
-
-[![Build](https://img.shields.io/github/actions/workflow/status/asadshehzed/Customer-Purchase-Behavior-Analysis/ci.yml?label=build)](https://github.com/asadshehzed/Customer-Purchase-Behavior-Analysis/actions)
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](#license)
-[![Stars](https://img.shields.io/github/stars/asadshehzed/Customer-Purchase-Behavior-Analysis?style=social)](https://github.com/asadshehzed/Customer-Purchase-Behavior-Analysis/stargazers)
-
----
-
 ## Table of Contents
 
 - [About the Project](#about-the-project)
@@ -140,3 +132,4 @@ This project is licensed under the MIT License. See `LICENSE` for details.
 - pandas, NumPy, Matplotlib, Seaborn
 - Jupyter ecosystem
 - Prior work in retail analytics and customer segmentation
+
